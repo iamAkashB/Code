@@ -11,4 +11,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamAkashB/Code/tree/main/0001-two-sum/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamAkashB/Code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamAkashB/Code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamAkashB/Code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
