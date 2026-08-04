@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamAkashB/Code/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamAkashB/Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0198-house-robber](https://github.com/iamAkashB/Code/tree/main/0198-house-robber/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/iamAkashB/Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [3731-find-missing-elements](https://github.com/iamAkashB/Code/tree/main/3731-find-missing-elements/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamAkashB/Code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamAkashB/Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/iamAkashB/Code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamAkashB/Code/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Math
