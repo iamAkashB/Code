@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamAkashB/Code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamAkashB/Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/iamAkashB/Code/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/iamAkashB/Code/tree/main/0198-house-robber/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/iamAkashB/Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [3731-find-missing-elements](https://github.com/iamAkashB/Code/tree/main/3731-find-missing-elements/) | Easy |
@@ -101,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamAkashB/Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/iamAkashB/Code/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
