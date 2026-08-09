@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamAkashB/Code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamAkashB/Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/iamAkashB/Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/iamAkashB/Code/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/iamAkashB/Code/tree/main/0198-house-robber/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/iamAkashB/Code/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/iamAkashB/Code/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/iamAkashB/Code/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/iamAkashB/Code/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -106,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/iamAkashB/Code/tree/main/0136-single-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/iamAkashB/Code/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
