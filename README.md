@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/iamAkashB/Code/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamAkashB/Code/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/iamAkashB/Code/tree/main/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/iamAkashB/Code/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/iamAkashB/Code/tree/main/0509-fibonacci-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamAkashB/Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iamAkashB/Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/iamAkashB/Code/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/iamAkashB/Code/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
